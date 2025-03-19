@@ -3,18 +3,18 @@ import turtle
 c = turtle.Screen()
 t = turtle.Turtle()
 
-print("Hi there!")
+print("Hi there! ")
 time.sleep(1)
-print("this is a two player game")
+print("this is a two player game. ")
 time.sleep(2)
-print("Player One writes a word and hands the device to Player Two for them to guess")
+print("Player One writes a word and hands the device to Player Two for them to guess. ")
 time.sleep(2)
-theword= str(input("put in a word:")) 
+theword= str(input("put in a word: ")) 
 
 howlong = len(theword)
 print(howlong)
 
-print "you have", howlong, "guesses"
+print ("you have"), howlong, "guesses."
 
 for g in range(howlong):
   t.goto(g*50, 0)

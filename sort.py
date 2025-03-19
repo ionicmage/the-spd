@@ -16,4 +16,9 @@ while dosort == 1:
       mynums[b] = mynums[b+1]
       mynums[b+1] = temp
       doswap = 1
-if swapnums == 
+if swapnums == 0:
+  dosort = 0
+  print("sorted")
+for r in mynums:
+  print(r)
+print("done")

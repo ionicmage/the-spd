@@ -11,7 +11,7 @@ t = turtle.Turtle()
 def randomnum():
   n = random.randrange(1,7)
   return n
-  print n
+  print (n)
 
 dice1 = randomnum()
 dice2 = randomnum()
