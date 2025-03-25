@@ -23,5 +23,3 @@ Yep, 100%. The repo is named "SPD" on my profile. Please read the readme.
 --------------
 
 Have fun using it, and have a lovely day.
-
-(P:S. if enough people are interested, ill release the full source code in this repo.)
