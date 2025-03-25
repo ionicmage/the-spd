@@ -1,3 +1,5 @@
+***NOTE: Repo empty until i finish the project. Est Summer 2025***
+
 Welcome to the *Sh-tty Python Directory.*
 
 This is the about me for the SPD, which includes (almost) all of the code i wrote in my underclassman programming classes. (Besides the really *really* terrible codes)
