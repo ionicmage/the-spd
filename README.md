@@ -2,17 +2,25 @@
 
 Welcome to the *Sh-tty Python Directory.*
 
-This is the about me for the SPD, which includes (almost) all of the code i wrote in my underclassman programming classes. (Besides the really *really* terrible codes)
+***1: About the SPD***
 
-I'm not including the source code for the stuff solely because its shit, and someone else could do a hundred times better lol. if you want to read the source code for any of the minigames, feel free to contact me.
+This includes (almost) all of the code i wrote in my underclassman programming classes. (Besides the really *really* terrible codes)
 
-Quite honestly, i just needed a place to host.
+It does not include the source code for the actual minigames, solely because theyre shit, and someone else could do a hundred times better lol. 
+
+if you want to read the source code for any of the minigames, feel free to contact me.
 
 I wrote this code for the directory in around three days, and i'm still adding to it. 
 
 It will always be hosted and updated at PythonAnywhere as well. [Link]
 
 The code is around 400 lines in all python (duh).
+
+***2: Can i use the directory code?***
+
+Yep, 100%. The repo is named "SPD" on my profile. Please read the readme.
+
+--------------
 
 Have fun using it, and have a lovely day.
 
