@@ -2,14 +2,14 @@
 
 Welcome to the *Sh-tty Python Directory.*
 
-***1: About the SPD***
+a collection of minigames written in Python that i wrote in my underclassman programming classes.
 
-This repo includes the skeleton code for the directory function. 
+This repo includes the __skeleton code for the directory function__. 
 
-The actual functioning code including the minigames is going to be hosted somewhere else.
+The actual functioning code including the minigames is going to be hosted **somewhere else**.
 
 **NOTE: It does not include the code i wrote in my underclassman programming classes, or the source code for the actual minigames, solely because theyre shit, and someone else could do a hundred times better lol.**
-  if you want to read the source code for any of the minigames, feel free to contact me.
+if you want to read the source code for any of the minigames, feel free to contact me.
 
 ----
 
