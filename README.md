@@ -16,7 +16,9 @@ i changed my mind, the repo is pretty basic python so im not too attached to it.
 
 ```dir.py``` is the file including games
 
-```index.py``` is the file with only the directory function
+```index.py``` is the file that the host uses as a source
+
+```basic.py``` is the file with only the empty directory function.
 
 ----
 
