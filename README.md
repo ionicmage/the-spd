@@ -1,4 +1,6 @@
-***NOTE: Repo empty until i finish the project. Est Summer 2025***
+<strike>***NOTE: Repo empty until i finish the project. Est Summer 2025***</strike>
+
+i lost about a million braincells doing this.
 
 This is the *Sh-tty Python Directory.*
 
@@ -17,6 +19,7 @@ i changed my mind, the repo is pretty basic python so im not too attached to it.
 ```dir.py``` is the file including games
 
 ```index.py``` is the file that the host uses as a source
+*note: still fixing index.py, est soon*
 
 ```basic.py``` is the file with only the empty directory function.
 
