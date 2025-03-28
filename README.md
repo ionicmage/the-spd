@@ -15,6 +15,7 @@ It does not include the code i wrote in my underclassman programming classes, or
 i changed my mind, the repo is pretty basic python so im not too attached to it. ill find somewhere to host it and let you all have at it.
 
 ```dir.py``` is the file including games
+
 ```index.py``` is the file with only the directory function
 
 ----
