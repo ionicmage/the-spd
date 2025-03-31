@@ -8,6 +8,7 @@ License specifics in docs.
 
 ```dir.py``` is the file including games 
 
-```index.py``` is the file that the host uses as a source *note: still fixing index.py, estimated soon* 
+<strike>```index.py``` is the file that the host uses as a source *note: still fixing index.py, estimated soon*</strike>
+Deprecated host.
 
 ```basic.py``` is the file with only the empty directory function.
